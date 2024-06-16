@@ -1,0 +1,8 @@
+name: bolodev-incognito
+version: '${project.version}'
+main: bolodev.bolodevincognito.Main
+api-version: '1.18'
+author: BoloDev
+
+commands:
+  incognito: # permisja bolodev.incognito
